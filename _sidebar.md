@@ -1,0 +1,19 @@
+- **开始**
+  - [架构概览](/overview/architecture.md)
+- **安装部署**
+  - [部署文档](/install/README.md)
+  - [源码编译](/install/compile.md)
+  - [存储配置](/install/Storage.md)
+- **开发指南**
+  - [后端开发](/dev/Backend_dev.md)
+  - [API 设计指南](/dev/api_design_guide.md)
+  - [OpenAPI 测试指南](/dev/openapi_testing_guide.md)
+- **API 文档**
+  - [接口文档](/api/README.md)
+  - [REST API 快速入门](/api/quick_start.md)
+  - [接口规范](/api/api_spec.md)
+- **规范说明**
+  - [提交规范](/specification/commit-spec.md)
+  - [代码评审](/specification/review.md)
+- **功能文档**
+  - [Webhook](/webhook/Webhook.md)
